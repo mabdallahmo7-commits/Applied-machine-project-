@@ -1,0 +1,5 @@
+KNN Classification Results
+==================================================
+
+Pass/Fail: Accuracy=0.9120, F1=0.9114, K=29
+Grade:     Accuracy=0.8640, F1=0.8400, K=22

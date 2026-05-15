@@ -1,0 +1,501 @@
+Student_ID,Study_Hours_Per_Week,Attendance_Percent,Quiz_Avg_Score,Sleep_Hours_Per_Night,Social_Media_Hours_Per_Day,Previous_GPA,Extracurricular_Activities,Parent_Education_Level,Current_GPA,Final_Score,Pass_Fail,Grade,Risk_Level
+S1001,25.0,93.9,93.0,8.2,1.6,1.6,1,PhD,2.78,58.5,Pass,D,Medium Risk
+S1002,18.6,100.0,83.5,6.2,0.2,2.28,1,Bachelor,2.22,59.6,Pass,D,Medium Risk
+S1003,26.5,59.0,66.2,5.8,1.3,2.73,1,Bachelor,2.84,66.6,Pass,C,Low Risk
+S1004,35.2,88.4,52.1,7.0,0.4,1.64,1,High School,2.48,51.1,Pass,D,Medium Risk
+S1005,17.7,70.2,79.0,6.7,5.0,2.06,0,Bachelor,2.43,43.0,Fail,F,Medium Risk
+S1006,17.7,72.7,72.9,6.3,8.9,2.0,0,Bachelor,1.91,41.9,Fail,F,Medium Risk
+S1007,35.8,71.1,82.9,8.0,0.2,2.97,1,Bachelor,2.81,65.5,Pass,C,Low Risk
+S1008,27.7,67.0,77.7,8.4,9.3,2.86,1,Bachelor,2.54,51.9,Pass,D,Medium Risk
+S1009,15.3,80.7,86.0,7.1,2.2,2.22,1,High School,2.6,61.3,Pass,D,Low Risk
+S1010,25.4,67.5,54.3,9.2,1.1,2.94,0,High School,2.52,29.4,Fail,F,High Risk
+S1011,15.4,84.1,91.3,5.3,0.2,2.36,0,Bachelor,2.55,33.8,Fail,F,High Risk
+S1012,15.3,79.2,69.0,6.7,2.1,2.58,1,High School,2.01,42.2,Fail,F,Medium Risk
+S1013,22.4,76.4,100.0,5.9,4.7,4.0,0,High School,2.37,63.9,Pass,D,Low Risk
+S1014,0.9,66.4,51.2,4.2,3.7,3.87,0,PhD,1.67,15.1,Fail,F,High Risk
+S1015,2.8,71.3,99.7,6.9,0.2,1.76,1,Bachelor,2.25,22.4,Fail,F,High Risk
+S1016,14.4,91.3,69.0,6.8,0.2,3.46,0,Bachelor,2.26,54.0,Pass,D,Medium Risk
+S1017,9.9,87.5,52.0,9.3,1.5,3.45,1,Master,2.44,45.0,Fail,F,Medium Risk
+S1018,23.1,65.3,55.3,7.9,1.0,1.88,0,PhD,2.43,37.6,Fail,F,High Risk
+S1019,10.9,81.5,58.6,5.5,0.8,3.46,0,Bachelor,1.75,33.5,Fail,F,High Risk
+S1020,5.9,91.3,73.5,9.8,1.0,4.0,0,Master,2.08,39.8,Fail,F,High Risk
+S1021,34.7,55.0,75.5,8.8,4.9,1.9,1,Bachelor,2.22,55.1,Pass,D,Medium Risk
+S1022,17.7,88.2,53.5,7.9,7.9,2.07,0,Bachelor,2.12,37.6,Fail,F,High Risk
+S1023,20.7,70.1,64.5,6.7,1.6,3.61,1,Bachelor,2.04,50.7,Pass,D,Medium Risk
+S1024,5.8,88.6,100.0,5.6,7.1,3.02,0,Bachelor,2.6,23.2,Fail,F,High Risk
+S1025,14.6,68.6,99.6,6.4,1.2,3.24,1,Bachelor,2.42,44.8,Fail,F,Medium Risk
+S1026,21.1,52.9,73.7,8.6,1.9,3.07,0,Bachelor,2.12,38.2,Fail,F,High Risk
+S1027,8.5,55.6,65.8,9.8,0.8,3.11,1,High School,1.45,38.1,Fail,F,High Risk
+S1028,23.8,80.7,67.4,9.3,3.1,1.74,1,Bachelor,1.87,48.3,Fail,F,Medium Risk
+S1029,14.0,83.9,77.3,6.3,11.6,3.64,1,High School,2.24,48.2,Fail,F,Medium Risk
+S1030,17.1,66.4,44.5,5.3,2.8,3.74,0,Bachelor,1.24,22.1,Fail,F,High Risk
+S1031,14.0,89.6,59.9,7.2,1.3,2.62,0,Bachelor,2.44,46.6,Fail,F,Medium Risk
+S1032,38.5,55.1,31.6,4.3,3.1,2.77,0,Master,1.91,47.4,Fail,F,Medium Risk
+S1033,19.9,79.0,73.0,7.5,0.4,1.58,1,Master,3.15,66.5,Pass,C,Low Risk
+S1034,9.4,61.8,77.9,6.8,6.6,3.21,1,Master,2.58,34.7,Fail,F,High Risk
+S1035,28.2,70.2,55.3,6.3,2.1,3.26,1,Bachelor,2.16,50.8,Pass,D,Medium Risk
+S1036,7.8,80.7,96.5,4.6,1.8,2.75,0,Master,2.11,33.0,Fail,F,High Risk
+S1037,22.1,67.1,40.5,7.8,2.6,3.7,0,Bachelor,2.33,22.1,Fail,F,High Risk
+S1038,0.4,74.2,35.7,6.2,2.9,2.53,0,High School,1.97,34.0,Fail,F,High Risk
+S1039,6.7,95.1,69.5,5.2,0.2,3.25,1,High School,1.65,44.5,Fail,F,Medium Risk
+S1040,22.0,71.3,85.9,3.0,3.4,1.98,1,High School,1.56,58.2,Pass,D,Medium Risk
+S1041,27.4,92.5,98.7,7.0,0.8,2.78,1,Bachelor,2.58,53.5,Pass,D,Medium Risk
+S1042,21.7,63.1,55.8,9.7,3.8,2.66,0,Bachelor,2.22,48.9,Fail,F,Medium Risk
+S1043,18.8,87.9,86.6,9.5,5.2,2.98,1,Master,2.64,69.6,Pass,C,Low Risk
+S1044,17.0,100.0,64.2,6.3,4.9,2.5,1,High School,2.57,51.3,Pass,D,Medium Risk
+S1045,5.2,42.9,61.5,6.1,2.4,2.69,0,High School,1.11,32.7,Fail,F,High Risk
+S1046,12.8,68.0,82.7,7.7,2.2,3.46,1,PhD,1.48,46.8,Fail,F,Medium Risk
+S1047,15.4,88.7,78.0,5.5,0.5,2.45,1,High School,2.5,37.9,Fail,F,High Risk
+S1048,30.6,77.0,33.5,7.5,4.5,1.51,1,Bachelor,1.74,55.7,Pass,D,Medium Risk
+S1049,23.4,85.6,94.5,8.1,0.9,4.0,1,Bachelor,2.13,55.7,Pass,D,Medium Risk
+S1050,2.4,70.9,92.6,8.8,2.1,3.91,0,Bachelor,2.2,48.7,Fail,F,Medium Risk
+S1051,23.2,81.3,52.5,6.8,1.0,1.77,0,High School,2.33,35.4,Fail,F,High Risk
+S1052,16.1,77.7,72.9,6.7,0.4,3.35,1,High School,2.2,39.0,Fail,F,High Risk
+S1053,13.2,97.5,74.9,5.7,3.0,2.4,0,High School,2.09,60.2,Pass,D,Low Risk
+S1054,26.1,83.8,70.2,5.8,0.2,3.01,1,Bachelor,2.37,51.5,Pass,D,Medium Risk
+S1055,30.3,85.1,54.0,6.7,4.1,3.04,1,Bachelor,2.25,62.7,Pass,D,Low Risk
+S1056,29.3,73.8,51.6,7.6,1.1,2.61,1,High School,1.83,49.7,Fail,F,Medium Risk
+S1057,11.6,72.7,64.5,8.4,0.0,2.17,1,Bachelor,1.76,29.7,Fail,F,High Risk
+S1058,16.9,73.5,88.5,5.8,2.1,2.25,0,Master,2.33,57.3,Pass,D,Medium Risk
+S1059,23.3,85.9,75.9,9.2,0.1,2.07,0,High School,2.54,52.6,Pass,D,Medium Risk
+S1060,29.8,73.7,57.6,6.6,1.0,2.13,0,Bachelor,2.26,56.9,Pass,D,Medium Risk
+S1061,15.2,84.3,80.4,7.0,3.7,2.75,1,Bachelor,1.95,49.4,Fail,F,Medium Risk
+S1062,18.1,100.0,8.0,5.9,0.2,2.23,0,High School,1.79,25.0,Fail,F,High Risk
+S1063,8.9,93.1,88.0,3.4,5.5,3.35,0,Bachelor,1.53,46.3,Fail,F,Medium Risk
+S1064,8.0,75.1,30.2,8.3,0.0,3.99,1,Bachelor,1.88,51.7,Pass,D,Medium Risk
+S1065,28.1,98.0,57.8,8.1,0.9,2.34,1,Master,2.93,60.5,Pass,D,Low Risk
+S1066,33.6,73.9,42.6,6.6,4.1,2.99,0,Master,1.77,47.3,Fail,F,Medium Risk
+S1067,19.3,49.4,39.1,7.1,1.1,3.2,0,Bachelor,1.56,44.7,Fail,F,Medium Risk
+S1068,30.0,64.9,88.2,7.8,0.3,3.18,1,Master,2.63,60.5,Pass,D,Low Risk
+S1069,23.6,51.9,55.6,4.7,1.3,2.86,0,Bachelor,2.24,42.8,Fail,F,Medium Risk
+S1070,13.5,74.7,71.9,6.2,0.9,3.39,0,Bachelor,1.99,36.6,Fail,F,High Risk
+S1071,23.6,80.3,64.1,8.2,5.5,3.19,0,Bachelor,2.1,50.9,Pass,D,Medium Risk
+S1072,35.4,100.0,74.5,5.1,1.1,1.81,1,High School,2.05,71.1,Pass,C,Low Risk
+S1073,19.6,84.9,66.5,7.4,4.7,3.5,0,Master,2.34,41.4,Fail,F,Medium Risk
+S1074,35.6,76.7,39.3,5.0,6.7,3.51,1,Bachelor,2.83,57.0,Pass,D,Medium Risk
+S1075,0.0,92.4,84.9,7.7,1.7,2.19,1,Bachelor,2.14,44.3,Fail,F,Medium Risk
+S1076,28.2,46.8,55.1,6.9,7.2,2.83,1,PhD,1.88,33.4,Fail,F,High Risk
+S1077,20.9,83.5,33.9,4.6,1.4,3.35,0,High School,2.09,48.2,Fail,F,Medium Risk
+S1078,17.0,91.6,56.4,8.7,10.0,2.63,1,Bachelor,2.12,40.6,Fail,F,Medium Risk
+S1079,20.9,57.8,95.0,5.9,0.3,3.66,1,High School,2.07,58.3,Pass,D,Medium Risk
+S1080,0.1,97.2,82.0,5.8,3.5,4.0,1,Master,2.42,40.2,Fail,F,Medium Risk
+S1081,17.8,85.1,58.0,7.3,2.0,2.17,1,Master,2.17,46.2,Fail,F,Medium Risk
+S1082,23.6,73.8,58.0,8.7,1.5,1.7,1,Bachelor,2.12,53.2,Pass,D,Medium Risk
+S1083,34.8,89.5,58.6,5.5,3.0,3.04,1,Bachelor,2.21,57.8,Pass,D,Medium Risk
+S1084,14.8,100.0,100.0,7.1,3.7,3.38,1,Bachelor,3.01,41.1,Fail,F,Medium Risk
+S1085,11.9,82.7,72.6,7.6,0.0,2.62,1,Master,2.36,39.0,Fail,F,High Risk
+S1086,15.0,83.7,73.6,8.0,0.5,3.96,0,Bachelor,2.22,57.7,Pass,D,Medium Risk
+S1087,29.2,73.1,85.6,7.3,3.7,1.73,0,Bachelor,2.67,55.6,Pass,D,Medium Risk
+S1088,23.3,67.3,69.8,6.4,3.3,3.35,0,PhD,2.05,43.4,Fail,F,Medium Risk
+S1089,14.7,92.5,59.8,5.8,10.1,2.32,1,High School,1.75,29.3,Fail,F,High Risk
+S1090,25.1,67.2,61.1,7.1,4.3,4.0,1,High School,2.01,37.8,Fail,F,High Risk
+S1091,21.0,81.1,63.6,5.4,9.0,4.0,1,Bachelor,1.67,26.7,Fail,F,High Risk
+S1092,29.7,72.8,64.3,3.0,3.6,2.19,1,PhD,2.25,47.2,Fail,F,Medium Risk
+S1093,13.0,87.2,79.6,7.7,1.1,2.36,1,Bachelor,1.7,45.8,Fail,F,Medium Risk
+S1094,16.7,85.0,66.0,8.4,0.3,3.49,1,High School,1.97,42.3,Fail,F,Medium Risk
+S1095,16.1,95.6,79.7,3.5,4.6,2.49,0,Bachelor,1.6,47.7,Fail,F,Medium Risk
+S1096,5.4,72.3,63.4,5.5,3.1,2.76,1,Bachelor,1.73,38.9,Fail,F,High Risk
+S1097,23.0,76.0,66.6,7.9,0.1,2.82,0,High School,2.25,68.5,Pass,C,Low Risk
+S1098,22.6,65.3,25.0,10.1,1.3,1.26,0,Bachelor,1.65,27.9,Fail,F,High Risk
+S1099,20.1,73.3,83.3,7.0,9.4,2.79,0,PhD,1.88,56.1,Pass,D,Medium Risk
+S1100,17.7,85.7,71.9,5.9,2.1,2.25,0,Bachelor,1.83,56.7,Pass,D,Medium Risk
+S1101,5.8,91.4,85.0,6.7,1.7,2.41,1,Bachelor,2.29,41.1,Fail,F,Medium Risk
+S1102,15.8,66.2,7.1,9.1,1.8,3.95,1,Bachelor,1.54,32.2,Fail,F,High Risk
+S1103,16.6,93.0,100.0,6.0,0.7,1.79,0,High School,2.53,54.2,Pass,D,Medium Risk
+S1104,12.0,100.0,62.2,5.8,1.4,3.45,1,Master,1.99,47.9,Fail,F,Medium Risk
+S1105,18.4,86.2,87.2,6.3,1.4,2.58,1,Bachelor,2.43,66.2,Pass,C,Low Risk
+S1106,24.0,100.0,44.2,5.6,0.2,2.58,0,Bachelor,2.67,54.4,Pass,D,Medium Risk
+S1107,38.9,68.4,77.3,7.2,4.4,3.43,1,Bachelor,2.78,62.8,Pass,D,Low Risk
+S1108,21.7,61.3,43.9,9.4,1.6,3.07,0,Bachelor,1.87,39.2,Fail,F,High Risk
+S1109,22.6,53.3,52.5,7.5,5.2,3.26,1,Bachelor,1.99,27.9,Fail,F,High Risk
+S1110,19.3,100.0,100.0,6.6,5.7,3.57,1,High School,2.61,56.3,Pass,D,Medium Risk
+S1111,0.8,89.8,61.2,6.6,0.7,2.53,0,Master,1.87,48.4,Fail,F,Medium Risk
+S1112,19.7,79.2,69.3,4.7,3.2,2.31,0,PhD,1.99,34.2,Fail,F,High Risk
+S1113,20.6,84.2,82.4,8.3,1.9,1.93,1,Bachelor,2.31,46.7,Fail,F,Medium Risk
+S1114,44.6,63.1,74.9,6.9,6.4,2.14,1,PhD,2.54,59.9,Pass,D,Medium Risk
+S1115,18.1,100.0,68.0,6.7,0.7,4.0,0,High School,2.22,44.8,Fail,F,Medium Risk
+S1116,23.0,81.9,72.3,11.8,3.4,3.8,1,Bachelor,2.28,49.1,Fail,F,Medium Risk
+S1117,19.7,81.6,100.0,7.4,2.8,1.72,1,Bachelor,1.97,53.7,Pass,D,Medium Risk
+S1118,8.3,90.9,63.8,5.9,1.0,1.74,1,Bachelor,1.46,32.3,Fail,F,High Risk
+S1119,31.4,87.2,69.0,6.4,0.4,3.19,1,Bachelor,2.21,50.3,Pass,D,Medium Risk
+S1120,27.5,83.4,86.0,8.7,3.2,3.24,1,Bachelor,2.69,65.0,Pass,D,Low Risk
+S1121,27.9,68.1,87.1,7.2,4.0,3.24,1,High School,2.18,44.5,Fail,F,Medium Risk
+S1122,10.9,87.1,88.7,4.8,1.1,2.6,1,Bachelor,2.36,36.4,Fail,F,High Risk
+S1123,34.0,100.0,77.8,8.4,3.1,2.7,0,High School,2.82,59.2,Pass,D,Medium Risk
+S1124,6.0,100.0,42.1,6.0,1.5,3.06,0,Master,1.35,43.9,Fail,F,Medium Risk
+S1125,25.9,100.0,97.7,9.8,3.7,2.87,0,High School,3.06,63.7,Pass,D,Low Risk
+S1126,41.9,72.3,42.1,8.6,0.7,1.02,1,High School,2.52,52.4,Pass,D,Medium Risk
+S1127,10.1,65.2,71.1,6.3,6.6,2.62,1,Bachelor,1.51,37.9,Fail,F,High Risk
+S1128,14.3,78.1,49.9,8.9,1.0,2.12,0,Bachelor,2.09,29.2,Fail,F,High Risk
+S1129,21.0,80.8,63.7,7.1,1.4,2.94,1,Master,1.99,53.3,Pass,D,Medium Risk
+S1130,15.0,96.4,71.6,8.3,0.2,4.0,1,Bachelor,2.54,55.8,Pass,D,Medium Risk
+S1131,4.5,54.6,71.4,7.7,0.4,3.09,0,Bachelor,1.39,34.3,Fail,F,High Risk
+S1132,20.7,100.0,73.4,5.7,2.2,2.55,1,Master,1.88,61.8,Pass,D,Low Risk
+S1133,9.4,77.6,97.3,6.0,0.9,3.54,0,Bachelor,2.17,40.7,Fail,F,Medium Risk
+S1134,24.7,73.6,74.1,8.5,5.4,3.19,0,High School,2.32,60.2,Pass,D,Low Risk
+S1135,10.8,64.8,60.1,6.5,0.0,3.14,1,Bachelor,1.76,40.9,Fail,F,Medium Risk
+S1136,35.5,55.2,84.3,6.4,1.4,3.29,1,PhD,2.1,54.5,Pass,D,Medium Risk
+S1137,12.2,92.3,88.8,5.6,1.2,4.0,0,Bachelor,2.33,51.5,Pass,D,Medium Risk
+S1138,16.8,81.1,40.4,7.6,0.1,1.9,1,High School,1.99,41.5,Fail,F,Medium Risk
+S1139,28.1,60.7,76.9,10.1,0.4,3.18,1,High School,2.42,65.7,Pass,C,Low Risk
+S1140,7.7,60.6,79.0,5.4,1.6,2.06,0,High School,1.81,31.2,Fail,F,High Risk
+S1141,22.3,75.0,59.0,7.0,2.0,3.24,0,Bachelor,2.0,41.2,Fail,F,Medium Risk
+S1142,33.1,100.0,92.5,9.1,1.6,2.07,1,Bachelor,3.24,77.2,Pass,B,Low Risk
+S1143,3.9,76.1,62.0,6.9,2.3,2.47,0,High School,1.43,32.4,Fail,F,High Risk
+S1144,21.8,57.5,67.5,7.7,2.7,2.56,1,PhD,2.17,52.9,Pass,D,Medium Risk
+S1145,22.6,76.3,61.5,5.4,0.0,3.58,1,Master,2.6,61.9,Pass,D,Low Risk
+S1146,27.8,75.9,65.3,7.6,1.9,3.53,1,Bachelor,2.56,49.6,Fail,F,Medium Risk
+S1147,7.6,39.5,43.1,6.7,9.9,1.8,0,Master,1.1,27.5,Fail,F,High Risk
+S1148,6.8,79.2,36.2,8.5,2.2,2.84,1,High School,1.6,25.2,Fail,F,High Risk
+S1149,25.2,76.5,96.9,8.8,3.4,2.23,1,Bachelor,2.83,65.3,Pass,C,Low Risk
+S1150,23.0,90.4,48.1,10.9,1.1,1.79,0,Bachelor,1.85,53.5,Pass,D,Medium Risk
+S1151,22.5,100.0,45.2,7.9,4.5,2.63,0,Master,1.99,51.8,Pass,D,Medium Risk
+S1152,23.5,96.9,21.9,7.5,4.4,2.55,0,Master,1.94,36.7,Fail,F,High Risk
+S1153,13.2,76.0,52.2,7.3,2.2,4.0,1,High School,2.43,27.3,Fail,F,High Risk
+S1154,22.3,63.4,38.5,6.5,11.2,3.15,1,PhD,1.88,37.3,Fail,F,High Risk
+S1155,22.9,100.0,97.8,7.5,0.4,1.7,0,High School,2.36,47.3,Fail,F,Medium Risk
+S1156,12.9,80.9,85.2,6.6,0.1,2.35,1,Master,2.11,47.9,Fail,F,Medium Risk
+S1157,38.7,80.2,51.2,7.3,4.4,3.62,0,PhD,2.35,62.1,Pass,D,Low Risk
+S1158,24.7,79.6,100.0,9.0,4.9,4.0,1,High School,2.51,61.1,Pass,D,Low Risk
+S1159,8.1,83.0,84.6,5.5,0.4,1.53,0,Master,2.29,62.4,Pass,D,Low Risk
+S1160,26.6,77.8,58.5,8.7,0.9,1.3,1,High School,1.77,60.6,Pass,D,Low Risk
+S1161,10.3,71.4,15.0,9.0,0.1,4.0,1,Bachelor,2.22,26.2,Fail,F,High Risk
+S1162,27.9,71.8,100.0,6.8,1.0,3.11,1,Bachelor,2.85,60.9,Pass,D,Low Risk
+S1163,31.6,79.5,37.2,3.8,4.5,2.11,0,Bachelor,2.33,43.4,Fail,F,Medium Risk
+S1164,11.8,71.8,32.1,6.1,2.2,3.23,0,PhD,1.57,20.2,Fail,F,High Risk
+S1165,29.6,69.3,85.5,8.9,1.3,0.69,1,Bachelor,2.27,51.5,Pass,D,Medium Risk
+S1166,24.1,81.6,100.0,7.0,1.4,2.8,0,Bachelor,2.16,55.8,Pass,D,Medium Risk
+S1167,28.2,76.2,92.7,5.5,0.0,3.06,0,Master,2.4,43.2,Fail,F,Medium Risk
+S1168,39.0,100.0,76.3,6.2,1.1,3.54,0,PhD,3.08,66.6,Pass,C,Low Risk
+S1169,17.5,40.2,76.9,8.3,3.1,1.99,1,High School,2.19,40.3,Fail,F,Medium Risk
+S1170,12.5,96.4,82.1,7.8,11.0,2.87,1,PhD,1.94,32.9,Fail,F,High Risk
+S1171,11.1,98.7,80.2,6.6,5.6,2.06,1,High School,2.09,51.3,Pass,D,Medium Risk
+S1172,11.8,48.9,70.6,6.4,0.1,3.0,0,Master,1.76,45.3,Fail,F,Medium Risk
+S1173,19.2,74.9,67.1,6.4,6.9,2.08,0,High School,1.58,45.5,Fail,F,Medium Risk
+S1174,23.4,74.4,63.7,5.6,4.6,2.47,1,High School,2.27,43.5,Fail,F,Medium Risk
+S1175,22.8,58.9,49.9,9.4,4.5,2.0,1,Bachelor,1.68,47.1,Fail,F,Medium Risk
+S1176,28.3,68.3,59.4,6.5,1.8,3.32,0,Bachelor,2.19,54.7,Pass,D,Medium Risk
+S1177,20.1,63.3,31.1,8.8,1.5,3.49,1,Bachelor,1.77,41.0,Fail,F,Medium Risk
+S1178,34.5,100.0,63.0,9.3,1.1,2.61,0,High School,2.51,56.3,Pass,D,Medium Risk
+S1179,17.4,94.0,45.2,8.5,0.2,2.83,1,Bachelor,2.21,49.4,Fail,F,Medium Risk
+S1180,47.2,99.1,42.9,6.4,0.8,1.64,0,PhD,2.58,72.4,Pass,C,Low Risk
+S1181,26.3,90.8,68.6,7.6,0.8,2.56,1,Bachelor,2.37,51.7,Pass,D,Medium Risk
+S1182,11.4,63.1,92.8,7.0,2.0,2.76,1,High School,1.87,63.8,Pass,D,Low Risk
+S1183,9.3,72.1,83.4,5.6,4.1,4.0,1,Bachelor,2.2,38.4,Fail,F,High Risk
+S1184,24.8,87.3,33.6,7.5,1.9,1.91,0,High School,2.55,45.6,Fail,F,Medium Risk
+S1185,17.8,61.7,45.2,5.2,0.2,3.97,1,Master,1.94,32.8,Fail,F,High Risk
+S1186,27.1,90.7,83.8,8.8,9.5,3.6,1,Master,2.94,57.7,Pass,D,Medium Risk
+S1187,24.7,76.4,45.4,6.3,8.6,3.02,0,Bachelor,1.6,26.6,Fail,F,High Risk
+S1188,19.3,74.4,60.5,7.3,4.6,4.0,1,Bachelor,2.24,39.9,Fail,F,High Risk
+S1189,11.5,90.7,76.0,7.4,14.2,3.1,1,Master,1.78,31.8,Fail,F,High Risk
+S1190,4.9,86.7,45.6,6.6,2.4,3.11,1,Bachelor,1.39,36.6,Fail,F,High Risk
+S1191,15.5,74.6,67.1,7.9,9.9,2.76,1,Master,1.78,48.7,Fail,F,Medium Risk
+S1192,28.6,97.4,38.3,6.3,0.2,3.78,0,Bachelor,2.8,56.0,Pass,D,Medium Risk
+S1193,22.1,63.8,53.0,8.3,1.4,3.68,1,Master,2.42,25.9,Fail,F,High Risk
+S1194,7.5,89.2,71.4,5.0,0.8,2.3,0,Bachelor,2.07,60.0,Pass,D,Medium Risk
+S1195,21.7,88.9,33.1,7.2,0.7,1.74,1,Bachelor,1.53,46.6,Fail,F,Medium Risk
+S1196,23.9,75.4,73.8,9.9,0.5,2.64,1,PhD,2.35,49.2,Fail,F,Medium Risk
+S1197,11.2,84.9,64.6,5.5,2.9,2.16,1,Bachelor,2.04,43.6,Fail,F,Medium Risk
+S1198,21.5,61.2,76.0,6.0,4.6,2.75,0,Bachelor,2.12,47.1,Fail,F,Medium Risk
+S1199,20.6,93.9,69.5,7.8,2.6,3.79,0,High School,1.96,47.6,Fail,F,Medium Risk
+S1200,8.6,77.2,92.3,7.3,0.5,2.43,1,Bachelor,1.89,50.9,Pass,D,Medium Risk
+S1201,23.6,72.2,67.5,7.5,5.0,2.77,1,Bachelor,2.18,43.1,Fail,F,Medium Risk
+S1202,25.6,95.7,56.4,7.7,3.0,2.85,1,High School,2.58,49.4,Fail,F,Medium Risk
+S1203,30.8,69.4,67.4,8.0,1.5,3.48,1,High School,1.79,48.9,Fail,F,Medium Risk
+S1204,30.5,58.9,75.9,8.7,3.4,1.0,1,Bachelor,2.1,42.1,Fail,F,Medium Risk
+S1205,6.2,56.7,66.0,7.6,0.9,2.31,0,Master,1.73,38.4,Fail,F,High Risk
+S1206,10.6,89.1,65.8,6.6,1.3,2.97,0,Bachelor,2.38,49.8,Fail,F,Medium Risk
+S1207,25.2,60.8,51.0,8.0,7.5,3.76,0,High School,2.27,45.4,Fail,F,Medium Risk
+S1208,25.1,100.0,51.7,9.8,1.0,2.41,0,Bachelor,2.64,61.6,Pass,D,Low Risk
+S1209,25.2,48.8,36.9,6.8,1.9,1.3,1,High School,1.38,40.7,Fail,F,Medium Risk
+S1210,58.5,100.0,100.0,5.5,6.6,3.3,1,Bachelor,2.82,75.0,Pass,C,Low Risk
+S1211,25.7,83.2,40.1,8.7,3.7,2.29,1,High School,2.02,53.2,Pass,D,Medium Risk
+S1212,31.4,78.5,51.1,6.8,0.2,1.85,0,High School,2.53,41.5,Fail,F,Medium Risk
+S1213,29.5,71.8,50.6,3.7,0.5,2.3,0,High School,2.48,39.8,Fail,F,High Risk
+S1214,26.5,86.0,82.9,8.3,0.0,2.65,0,Bachelor,2.81,52.6,Pass,D,Medium Risk
+S1215,16.8,79.4,59.1,6.2,3.0,2.32,0,High School,2.13,52.3,Pass,D,Medium Risk
+S1216,27.6,96.5,90.0,6.9,1.8,1.04,1,Bachelor,2.66,70.0,Pass,C,Low Risk
+S1217,12.3,81.7,51.5,7.5,0.4,3.52,0,Bachelor,1.9,46.3,Fail,F,Medium Risk
+S1218,17.6,82.3,70.6,7.3,9.5,3.82,1,Bachelor,2.2,52.7,Pass,D,Medium Risk
+S1219,15.1,74.5,48.3,8.1,2.3,3.32,0,Bachelor,2.51,34.0,Fail,F,High Risk
+S1220,20.8,79.1,100.0,6.3,0.8,1.89,1,Master,2.11,60.5,Pass,D,Low Risk
+S1221,43.1,84.6,41.2,7.8,2.1,2.64,1,High School,3.02,56.5,Pass,D,Medium Risk
+S1222,1.3,54.3,71.2,6.6,3.4,2.79,0,Bachelor,1.5,39.4,Fail,F,High Risk
+S1223,26.9,59.8,77.7,8.1,0.2,3.28,1,High School,2.75,52.8,Pass,D,Medium Risk
+S1224,3.9,91.1,73.3,7.9,1.0,3.33,1,High School,1.74,41.7,Fail,F,Medium Risk
+S1225,15.3,82.6,61.3,5.6,4.9,2.21,1,Bachelor,2.14,46.5,Fail,F,Medium Risk
+S1226,30.9,77.2,62.4,8.6,1.8,2.87,0,Bachelor,2.22,62.0,Pass,D,Low Risk
+S1227,20.6,80.3,65.9,6.2,2.4,3.17,1,Master,1.81,42.8,Fail,F,Medium Risk
+S1228,9.2,85.2,62.1,8.2,1.7,3.96,1,Bachelor,2.25,43.1,Fail,F,Medium Risk
+S1229,12.8,71.9,84.3,7.6,0.1,3.36,1,PhD,2.54,40.7,Fail,F,Medium Risk
+S1230,26.8,68.3,100.0,9.8,0.5,3.43,1,High School,2.43,42.1,Fail,F,Medium Risk
+S1231,12.7,82.9,53.9,6.7,1.8,2.87,1,High School,1.55,43.5,Fail,F,Medium Risk
+S1232,22.2,65.3,37.6,6.5,0.7,3.93,1,High School,1.97,45.2,Fail,F,Medium Risk
+S1233,20.5,86.1,63.2,7.0,0.2,3.13,1,High School,2.29,52.8,Pass,D,Medium Risk
+S1234,13.5,54.5,100.0,6.5,5.6,2.11,1,Bachelor,2.13,29.9,Fail,F,High Risk
+S1235,41.4,95.4,48.9,8.2,11.9,3.92,1,Bachelor,2.96,51.5,Pass,D,Medium Risk
+S1236,26.3,87.1,97.8,4.6,4.7,3.36,1,High School,2.59,40.2,Fail,F,Medium Risk
+S1237,0.0,83.8,98.6,5.4,5.8,2.45,1,PhD,2.53,53.0,Pass,D,Medium Risk
+S1238,21.9,94.7,53.9,5.4,0.8,2.42,1,Master,2.29,40.5,Fail,F,Medium Risk
+S1239,13.4,100.0,76.4,8.4,9.7,3.04,0,High School,2.23,57.5,Pass,D,Medium Risk
+S1240,28.5,95.2,97.6,9.6,0.7,3.17,1,High School,2.45,75.2,Pass,B,Low Risk
+S1241,12.1,52.4,57.4,6.8,9.1,2.96,1,High School,1.55,24.3,Fail,F,High Risk
+S1242,18.9,60.8,60.9,6.7,15.0,3.05,1,High School,1.7,24.9,Fail,F,High Risk
+S1243,25.0,70.6,53.4,7.1,3.7,4.0,1,High School,2.51,48.3,Fail,F,Medium Risk
+S1244,28.7,80.4,44.7,8.7,11.9,3.66,0,Bachelor,2.37,36.6,Fail,F,High Risk
+S1245,8.0,87.8,52.0,5.6,2.5,2.95,1,High School,1.55,39.0,Fail,F,High Risk
+S1246,16.7,69.1,40.5,7.4,0.9,3.55,0,Bachelor,1.99,35.4,Fail,F,High Risk
+S1247,15.3,82.8,65.7,8.5,1.7,1.97,1,PhD,2.32,33.6,Fail,F,High Risk
+S1248,13.5,68.7,49.6,7.8,2.7,3.12,1,Bachelor,2.35,20.9,Fail,F,High Risk
+S1249,37.7,70.8,69.7,7.3,0.2,4.0,1,PhD,2.93,61.3,Pass,D,Low Risk
+S1250,24.0,58.9,33.9,8.5,2.9,2.63,0,High School,2.08,34.9,Fail,F,High Risk
+S1251,7.4,66.2,71.6,3.0,11.9,2.12,1,Bachelor,1.55,25.6,Fail,F,High Risk
+S1252,29.2,59.7,81.7,8.0,0.6,2.28,0,Bachelor,2.44,61.2,Pass,D,Low Risk
+S1253,41.2,65.4,25.1,6.0,4.7,1.93,0,High School,2.38,54.6,Pass,D,Medium Risk
+S1254,30.3,95.8,72.5,4.3,7.2,2.17,0,High School,2.01,51.6,Pass,D,Medium Risk
+S1255,4.8,65.8,89.6,7.8,8.6,2.5,0,Bachelor,1.76,36.4,Fail,F,High Risk
+S1256,15.2,100.0,40.8,9.1,9.7,1.68,1,Bachelor,1.74,44.2,Fail,F,Medium Risk
+S1257,32.7,87.4,98.5,6.8,2.2,2.81,1,Bachelor,2.91,54.5,Pass,D,Medium Risk
+S1258,12.9,82.8,73.4,8.4,11.4,3.52,0,Bachelor,2.52,43.6,Fail,F,Medium Risk
+S1259,24.4,67.1,50.9,9.4,4.2,2.07,1,Bachelor,1.85,49.8,Fail,F,Medium Risk
+S1260,27.7,90.5,63.9,9.0,0.5,4.0,0,High School,1.95,62.8,Pass,D,Low Risk
+S1261,10.7,71.4,76.2,9.5,1.9,3.21,1,Bachelor,2.03,30.7,Fail,F,High Risk
+S1262,19.4,81.8,66.5,8.1,3.8,3.62,1,High School,2.59,42.4,Fail,F,Medium Risk
+S1263,0.0,100.0,75.8,7.1,0.9,2.27,1,High School,2.22,37.2,Fail,F,High Risk
+S1264,9.8,78.6,46.6,4.6,3.1,3.48,1,PhD,1.94,35.7,Fail,F,High Risk
+S1265,17.5,97.2,68.4,6.6,3.3,1.93,1,Bachelor,2.15,53.9,Pass,D,Medium Risk
+S1266,7.5,69.5,36.7,5.7,0.5,3.51,0,Master,1.29,43.8,Fail,F,Medium Risk
+S1267,36.3,79.5,62.8,10.3,2.5,2.94,1,Bachelor,2.78,55.7,Pass,D,Medium Risk
+S1268,5.7,100.0,46.9,6.7,4.4,3.24,0,Bachelor,1.73,33.7,Fail,F,High Risk
+S1269,15.6,70.6,50.3,7.2,2.1,1.86,1,High School,2.47,49.6,Fail,F,Medium Risk
+S1270,21.3,100.0,89.7,7.8,0.0,2.08,1,High School,2.78,63.7,Pass,D,Low Risk
+S1271,34.4,90.6,86.8,7.1,0.0,3.28,1,High School,2.68,75.9,Pass,B,Low Risk
+S1272,5.6,71.6,77.2,9.5,1.3,2.04,0,Master,1.77,46.2,Fail,F,Medium Risk
+S1273,31.6,89.5,43.2,6.1,7.8,3.17,1,Bachelor,2.26,37.8,Fail,F,High Risk
+S1274,20.1,94.6,58.7,7.3,0.8,1.71,0,Bachelor,2.15,40.2,Fail,F,Medium Risk
+S1275,10.2,89.3,89.3,5.9,3.0,3.48,1,Bachelor,2.65,36.6,Fail,F,High Risk
+S1276,24.6,56.4,67.8,5.0,0.8,1.81,0,PhD,1.99,51.5,Pass,D,Medium Risk
+S1277,22.0,69.1,100.0,6.1,1.2,3.24,0,High School,2.22,65.4,Pass,C,Low Risk
+S1278,14.0,76.3,72.9,6.9,5.7,3.3,1,High School,2.68,58.4,Pass,D,Medium Risk
+S1279,20.7,78.9,68.8,6.4,3.9,2.24,1,Bachelor,2.15,54.5,Pass,D,Medium Risk
+S1280,16.1,89.3,58.8,6.0,0.3,3.27,0,Master,2.44,56.1,Pass,D,Medium Risk
+S1281,21.1,82.7,67.7,4.9,1.7,3.01,0,PhD,2.05,44.1,Fail,F,Medium Risk
+S1282,26.6,60.0,62.0,6.9,0.1,2.37,1,High School,2.2,39.4,Fail,F,High Risk
+S1283,35.9,85.7,79.2,4.7,2.0,1.99,1,Master,2.63,67.3,Pass,C,Low Risk
+S1284,7.6,89.2,84.1,8.1,3.3,1.23,1,Master,1.5,51.2,Pass,D,Medium Risk
+S1285,41.3,88.4,49.3,7.1,0.4,3.08,0,High School,3.25,60.6,Pass,D,Low Risk
+S1286,0.5,96.2,38.4,4.8,1.0,1.55,0,Bachelor,1.97,35.6,Fail,F,High Risk
+S1287,18.5,92.5,28.3,6.5,1.5,2.88,0,Bachelor,1.89,43.4,Fail,F,Medium Risk
+S1288,25.9,86.9,75.2,5.9,7.6,2.59,0,PhD,2.01,61.4,Pass,D,Low Risk
+S1289,22.8,78.9,42.9,7.5,15.0,3.34,1,High School,2.08,46.4,Fail,F,Medium Risk
+S1290,13.8,55.1,21.9,9.0,0.1,2.56,1,Master,1.58,36.3,Fail,F,High Risk
+S1291,17.9,86.4,72.8,4.2,4.3,2.54,0,Bachelor,2.25,53.3,Pass,D,Medium Risk
+S1292,15.1,83.1,100.0,7.2,1.4,3.39,0,Master,2.55,59.6,Pass,D,Medium Risk
+S1293,14.1,84.1,64.9,6.8,1.5,3.07,0,Bachelor,2.31,42.2,Fail,F,Medium Risk
+S1294,28.5,60.8,81.8,8.0,4.2,3.05,1,Bachelor,2.78,59.2,Pass,D,Medium Risk
+S1295,23.6,63.8,66.6,7.3,7.5,3.18,1,Master,2.27,33.1,Fail,F,High Risk
+S1296,13.1,95.8,63.0,5.9,9.0,1.57,0,Master,1.64,49.9,Fail,F,Medium Risk
+S1297,29.0,79.4,83.4,6.5,2.6,3.41,0,Master,2.97,47.8,Fail,F,Medium Risk
+S1298,23.1,90.2,59.2,5.8,1.3,3.29,1,High School,2.83,52.6,Pass,D,Medium Risk
+S1299,28.1,80.4,70.3,8.6,4.6,1.99,1,Bachelor,3.3,47.4,Fail,F,Medium Risk
+S1300,26.3,80.4,71.4,7.0,0.9,2.6,1,High School,2.05,58.9,Pass,D,Medium Risk
+S1301,11.7,94.1,51.6,9.9,2.5,2.77,0,Bachelor,2.23,44.9,Fail,F,Medium Risk
+S1302,14.4,72.3,84.8,6.9,1.3,2.69,0,Bachelor,1.55,36.2,Fail,F,High Risk
+S1303,27.5,81.4,61.5,5.9,3.2,3.07,1,Bachelor,2.48,53.8,Pass,D,Medium Risk
+S1304,26.1,73.1,49.9,4.7,0.8,3.95,0,Bachelor,2.03,41.1,Fail,F,Medium Risk
+S1305,19.8,73.5,75.7,4.3,0.6,3.67,0,PhD,2.82,55.4,Pass,D,Medium Risk
+S1306,21.2,75.4,47.0,4.6,7.5,1.75,1,High School,1.55,38.0,Fail,F,High Risk
+S1307,32.8,83.3,65.6,7.4,0.3,3.3,0,Bachelor,2.08,61.3,Pass,D,Low Risk
+S1308,14.1,72.8,64.8,7.8,2.1,3.86,1,Bachelor,2.01,36.4,Fail,F,High Risk
+S1309,25.5,98.8,86.7,4.6,0.7,3.11,0,High School,2.05,55.0,Pass,D,Medium Risk
+S1310,18.0,66.6,74.5,8.3,0.1,3.67,0,High School,2.49,45.6,Fail,F,Medium Risk
+S1311,17.8,77.2,64.5,6.3,0.1,4.0,1,PhD,1.63,54.0,Pass,D,Medium Risk
+S1312,31.0,73.4,81.4,7.2,0.6,3.62,0,Master,2.61,72.1,Pass,C,Low Risk
+S1313,28.3,100.0,92.8,9.4,6.0,3.0,1,PhD,2.22,57.1,Pass,D,Medium Risk
+S1314,28.1,82.9,76.2,8.3,1.0,3.64,1,PhD,2.53,66.9,Pass,C,Low Risk
+S1315,33.1,95.5,65.2,6.6,9.0,2.92,0,High School,3.02,36.9,Fail,F,High Risk
+S1316,20.2,57.7,38.8,5.7,2.6,2.82,1,Bachelor,1.84,26.5,Fail,F,High Risk
+S1317,26.8,84.0,43.7,3.8,1.7,2.52,0,Bachelor,1.82,37.7,Fail,F,High Risk
+S1318,16.9,93.3,58.9,5.9,2.6,4.0,1,Bachelor,2.29,35.6,Fail,F,High Risk
+S1319,23.2,81.2,52.8,6.7,2.2,2.15,0,Bachelor,2.11,34.4,Fail,F,High Risk
+S1320,18.7,96.0,61.3,5.5,4.3,4.0,1,Bachelor,2.49,50.5,Pass,D,Medium Risk
+S1321,21.0,72.2,66.1,6.8,1.0,3.2,0,Bachelor,1.79,46.5,Fail,F,Medium Risk
+S1322,26.0,100.0,75.6,7.1,1.3,1.68,1,Bachelor,2.69,62.2,Pass,D,Low Risk
+S1323,11.8,100.0,63.6,6.7,6.7,3.09,1,High School,1.38,49.4,Fail,F,Medium Risk
+S1324,40.9,74.6,74.7,6.0,8.8,1.12,1,Bachelor,2.17,58.7,Pass,D,Medium Risk
+S1325,9.9,73.3,66.3,7.3,6.7,3.3,0,Bachelor,1.8,43.9,Fail,F,Medium Risk
+S1326,7.9,100.0,25.5,7.7,1.6,3.51,0,Bachelor,2.14,35.8,Fail,F,High Risk
+S1327,31.6,100.0,46.2,5.4,4.5,2.33,1,High School,2.36,42.0,Fail,F,Medium Risk
+S1328,27.9,72.2,62.1,9.1,1.9,2.9,1,Master,1.92,61.0,Pass,D,Low Risk
+S1329,26.2,73.7,40.8,6.9,2.1,4.0,0,High School,1.89,39.9,Fail,F,High Risk
+S1330,26.3,75.8,77.0,7.0,0.7,2.4,1,Bachelor,2.42,47.6,Fail,F,Medium Risk
+S1331,19.9,59.8,95.6,8.1,2.7,1.95,0,Master,2.17,51.0,Pass,D,Medium Risk
+S1332,11.0,66.2,89.4,7.3,0.6,3.99,1,Bachelor,2.06,40.4,Fail,F,Medium Risk
+S1333,20.8,64.9,60.7,8.4,1.2,4.0,0,High School,2.07,43.1,Fail,F,Medium Risk
+S1334,13.2,68.5,94.8,7.4,5.8,2.8,0,Bachelor,2.37,50.2,Pass,D,Medium Risk
+S1335,29.8,79.5,68.0,6.1,0.7,3.61,1,Bachelor,2.33,57.7,Pass,D,Medium Risk
+S1336,18.5,83.5,58.3,7.5,0.2,3.87,0,Master,2.28,41.0,Fail,F,Medium Risk
+S1337,11.7,100.0,52.7,5.3,0.2,2.21,1,Master,2.7,40.4,Fail,F,Medium Risk
+S1338,16.8,65.0,59.0,7.2,8.5,2.41,1,Bachelor,1.4,46.5,Fail,F,Medium Risk
+S1339,24.1,94.8,57.2,7.0,2.1,3.78,0,Bachelor,1.92,55.7,Pass,D,Medium Risk
+S1340,14.4,76.8,68.4,6.7,1.6,4.0,0,High School,2.44,62.0,Pass,D,Low Risk
+S1341,11.8,79.3,68.2,6.8,5.0,3.25,1,High School,1.86,51.6,Pass,D,Medium Risk
+S1342,22.4,90.1,65.1,4.2,5.4,2.1,0,Bachelor,2.05,56.4,Pass,D,Medium Risk
+S1343,22.4,63.2,73.7,6.2,1.2,4.0,1,Bachelor,2.03,37.4,Fail,F,High Risk
+S1344,14.9,85.7,88.8,7.1,3.5,2.38,1,Bachelor,2.22,57.7,Pass,D,Medium Risk
+S1345,15.3,82.5,84.0,7.2,4.4,2.53,1,High School,2.72,49.1,Fail,F,Medium Risk
+S1346,22.3,87.4,35.3,5.5,3.2,3.07,0,High School,2.29,37.4,Fail,F,High Risk
+S1347,5.5,84.3,13.9,8.9,0.5,4.0,0,Bachelor,2.01,32.0,Fail,F,High Risk
+S1348,5.9,100.0,83.7,5.7,6.3,3.48,0,High School,1.82,52.5,Pass,D,Medium Risk
+S1349,12.8,70.4,37.7,8.5,2.3,3.13,0,Master,1.48,40.5,Fail,F,Medium Risk
+S1350,17.9,72.0,60.5,7.6,1.0,3.17,1,High School,1.27,38.6,Fail,F,High Risk
+S1351,23.1,70.7,41.6,6.0,1.7,2.83,1,Bachelor,1.72,47.8,Fail,F,Medium Risk
+S1352,34.8,71.7,29.0,9.7,0.1,3.25,0,PhD,2.58,44.8,Fail,F,Medium Risk
+S1353,28.6,70.4,75.8,5.2,0.4,0.78,0,High School,2.28,55.5,Pass,D,Medium Risk
+S1354,18.4,97.8,80.2,8.4,4.4,2.56,0,Bachelor,2.4,52.0,Pass,D,Medium Risk
+S1355,19.8,100.0,53.5,8.5,0.0,2.99,1,High School,2.4,50.3,Pass,D,Medium Risk
+S1356,10.0,71.4,13.2,6.0,1.6,1.88,0,Bachelor,1.18,33.5,Fail,F,High Risk
+S1357,19.8,67.5,54.1,9.1,2.2,3.11,1,Bachelor,2.15,36.4,Fail,F,High Risk
+S1358,17.1,87.1,72.8,6.6,0.2,2.64,0,Bachelor,2.51,66.5,Pass,C,Low Risk
+S1359,23.2,71.7,35.4,7.4,10.8,4.0,1,Bachelor,1.48,21.1,Fail,F,High Risk
+S1360,11.7,89.5,68.7,7.4,0.8,4.0,1,Master,2.4,42.8,Fail,F,Medium Risk
+S1361,25.2,83.0,64.7,6.8,1.1,2.43,0,High School,2.59,55.4,Pass,D,Medium Risk
+S1362,35.3,57.3,76.6,8.2,1.1,2.68,0,High School,2.29,62.0,Pass,D,Low Risk
+S1363,18.9,100.0,67.4,8.2,0.8,2.74,1,Master,2.66,53.4,Pass,D,Medium Risk
+S1364,24.0,100.0,45.5,4.4,0.0,2.44,0,Bachelor,3.08,48.6,Fail,F,Medium Risk
+S1365,26.9,70.8,88.9,9.0,3.9,2.96,1,Master,2.47,60.3,Pass,D,Low Risk
+S1366,16.0,74.2,61.8,4.5,10.2,2.19,1,Bachelor,1.91,34.7,Fail,F,High Risk
+S1367,22.2,84.3,64.5,8.5,0.8,1.9,1,Master,2.04,63.6,Pass,D,Low Risk
+S1368,20.1,85.0,46.3,8.7,3.3,3.3,1,Bachelor,2.25,52.1,Pass,D,Medium Risk
+S1369,21.0,89.9,56.1,5.4,4.1,3.3,0,Master,2.36,53.0,Pass,D,Medium Risk
+S1370,12.3,100.0,47.3,6.4,5.7,2.16,0,PhD,2.04,32.8,Fail,F,High Risk
+S1371,20.2,77.3,61.5,5.3,1.6,3.52,1,Bachelor,1.87,45.3,Fail,F,Medium Risk
+S1372,25.0,68.0,99.2,6.7,1.1,2.29,0,High School,2.47,55.4,Pass,D,Medium Risk
+S1373,34.5,59.3,37.6,6.5,1.2,3.0,1,High School,2.52,38.0,Fail,F,High Risk
+S1374,29.6,69.0,32.7,8.2,3.7,3.46,0,High School,2.25,46.5,Fail,F,Medium Risk
+S1375,41.5,79.5,94.4,9.0,5.1,2.77,0,High School,3.18,63.5,Pass,D,Low Risk
+S1376,12.3,100.0,60.8,9.1,0.6,3.16,1,Bachelor,2.27,54.8,Pass,D,Medium Risk
+S1377,28.7,72.2,51.6,6.2,1.4,2.39,0,Bachelor,2.36,39.8,Fail,F,High Risk
+S1378,21.8,83.4,85.8,6.7,7.0,2.64,1,Bachelor,2.43,65.5,Pass,C,Low Risk
+S1379,41.9,79.8,52.9,4.5,4.9,2.64,1,Bachelor,2.12,46.9,Fail,F,Medium Risk
+S1380,11.9,97.8,100.0,5.8,12.6,2.2,1,Bachelor,2.36,49.7,Fail,F,Medium Risk
+S1381,11.6,100.0,78.6,8.4,4.2,2.66,1,High School,2.05,57.0,Pass,D,Medium Risk
+S1382,14.0,72.0,55.2,9.4,1.5,1.56,1,High School,1.7,38.6,Fail,F,High Risk
+S1383,0.0,72.7,100.0,5.1,2.7,2.41,1,High School,1.96,48.8,Fail,F,Medium Risk
+S1384,14.7,95.7,52.9,6.1,3.2,2.57,0,Bachelor,2.18,34.1,Fail,F,High Risk
+S1385,12.4,90.2,79.8,7.0,0.2,2.6,1,High School,1.92,62.5,Pass,D,Low Risk
+S1386,21.5,100.0,71.0,7.4,2.4,2.61,1,High School,2.79,55.0,Pass,D,Medium Risk
+S1387,23.4,88.8,91.0,5.8,3.7,2.75,1,Bachelor,2.67,51.8,Pass,D,Medium Risk
+S1388,38.8,74.6,96.2,7.6,0.5,3.18,1,Master,2.64,65.2,Pass,C,Low Risk
+S1389,29.5,88.9,65.6,6.3,4.6,3.5,0,High School,2.04,60.0,Pass,D,Medium Risk
+S1390,14.2,96.6,49.9,7.0,2.6,2.28,1,Bachelor,2.03,39.5,Fail,F,High Risk
+S1391,11.0,92.3,74.2,7.8,9.1,1.84,1,Bachelor,1.93,37.9,Fail,F,High Risk
+S1392,24.9,87.6,51.4,7.0,0.1,1.97,0,Master,2.25,48.9,Fail,F,Medium Risk
+S1393,6.8,96.0,100.0,6.3,0.9,2.41,1,PhD,2.23,43.4,Fail,F,Medium Risk
+S1394,38.3,97.5,67.7,6.8,2.8,2.52,1,High School,2.12,77.1,Pass,B,Low Risk
+S1395,31.8,100.0,57.7,6.9,1.1,2.18,1,High School,2.41,53.5,Pass,D,Medium Risk
+S1396,15.3,89.7,68.7,6.4,3.8,1.76,1,Master,2.0,53.5,Pass,D,Medium Risk
+S1397,2.9,77.5,38.1,6.6,4.3,2.44,1,Bachelor,1.73,31.0,Fail,F,High Risk
+S1398,33.5,82.2,45.6,9.4,0.3,2.95,0,Bachelor,2.25,47.1,Fail,F,Medium Risk
+S1399,18.9,98.1,89.0,7.8,2.2,3.28,1,Bachelor,3.13,57.9,Pass,D,Medium Risk
+S1400,32.4,67.7,51.9,6.6,2.1,2.35,0,Bachelor,1.59,55.8,Pass,D,Medium Risk
+S1401,4.1,85.5,44.1,8.0,1.4,2.47,1,PhD,2.18,34.7,Fail,F,High Risk
+S1402,14.0,74.1,75.7,6.5,8.1,2.06,1,PhD,1.87,51.5,Pass,D,Medium Risk
+S1403,20.1,80.4,88.7,8.8,5.3,2.77,0,Master,2.67,62.0,Pass,D,Low Risk
+S1404,20.5,99.2,79.4,7.6,3.6,2.12,0,High School,2.48,62.9,Pass,D,Low Risk
+S1405,15.5,82.9,84.9,6.8,3.8,3.26,1,Master,2.66,46.3,Fail,F,Medium Risk
+S1406,26.2,80.7,49.9,7.7,1.9,1.37,0,High School,1.98,40.4,Fail,F,Medium Risk
+S1407,9.3,59.6,36.6,4.6,7.6,2.51,1,High School,1.05,20.4,Fail,F,High Risk
+S1408,18.6,91.2,95.0,5.3,3.6,3.04,0,Master,2.9,56.4,Pass,D,Medium Risk
+S1409,21.2,89.7,58.5,5.2,3.9,2.95,0,High School,2.17,51.0,Pass,D,Medium Risk
+S1410,25.1,100.0,60.0,7.2,5.9,4.0,1,High School,2.61,34.3,Fail,F,High Risk
+S1411,27.1,75.4,91.6,9.6,1.0,3.08,1,High School,3.01,61.1,Pass,D,Low Risk
+S1412,8.8,83.3,76.1,10.3,4.9,2.0,1,Master,1.79,47.4,Fail,F,Medium Risk
+S1413,4.7,83.7,74.1,8.0,0.7,2.72,0,Bachelor,2.23,42.0,Fail,F,Medium Risk
+S1414,32.8,100.0,100.0,7.8,1.3,1.38,1,Bachelor,2.66,80.1,Pass,B,Low Risk
+S1415,23.3,78.6,52.1,4.3,1.2,2.74,1,High School,2.03,48.5,Fail,F,Medium Risk
+S1416,12.5,84.2,83.6,6.2,11.5,2.13,1,Master,2.05,53.0,Pass,D,Medium Risk
+S1417,35.5,89.1,66.1,5.8,5.8,3.53,1,Master,2.15,54.3,Pass,D,Medium Risk
+S1418,21.2,82.8,70.4,6.1,3.6,2.36,1,Bachelor,1.97,56.7,Pass,D,Medium Risk
+S1419,31.8,73.3,95.6,6.7,3.9,2.71,1,Bachelor,2.98,73.2,Pass,C,Low Risk
+S1420,20.7,82.9,75.2,6.3,2.5,2.29,0,High School,2.52,61.5,Pass,D,Low Risk
+S1421,40.6,96.1,75.8,4.0,8.8,4.0,1,PhD,2.78,50.6,Pass,D,Medium Risk
+S1422,37.6,64.6,86.5,8.1,2.1,2.54,0,Bachelor,2.66,59.8,Pass,D,Medium Risk
+S1423,17.5,82.0,57.7,5.4,1.4,4.0,1,PhD,2.1,41.8,Fail,F,Medium Risk
+S1424,29.7,69.5,48.2,7.4,0.5,3.45,0,Bachelor,2.67,53.0,Pass,D,Medium Risk
+S1425,26.5,97.9,44.1,10.1,4.6,3.19,1,Master,2.4,56.9,Pass,D,Medium Risk
+S1426,33.7,57.2,25.7,5.6,4.0,3.09,1,Master,1.96,32.8,Fail,F,High Risk
+S1427,10.4,71.6,100.0,3.2,1.5,3.12,0,Bachelor,2.47,47.6,Fail,F,Medium Risk
+S1428,26.9,85.7,42.9,6.6,0.1,1.26,0,PhD,1.85,32.8,Fail,F,High Risk
+S1429,30.6,100.0,60.6,8.7,5.5,2.58,0,Bachelor,3.04,68.1,Pass,C,Low Risk
+S1430,2.4,79.0,59.5,9.9,0.0,3.48,1,High School,1.53,36.2,Fail,F,High Risk
+S1431,8.2,71.7,71.1,5.2,3.6,2.76,1,Bachelor,2.34,39.3,Fail,F,High Risk
+S1432,0.0,100.0,81.3,7.7,10.5,1.68,0,Master,1.82,37.3,Fail,F,High Risk
+S1433,17.3,58.3,82.2,6.3,1.7,2.76,1,Bachelor,1.98,55.6,Pass,D,Medium Risk
+S1434,27.2,47.0,53.3,6.8,0.8,4.0,0,High School,1.49,21.0,Fail,F,High Risk
+S1435,35.0,86.6,61.7,11.0,3.7,3.8,1,Bachelor,2.62,59.7,Pass,D,Medium Risk
+S1436,20.7,72.5,70.7,4.7,5.1,2.75,1,Bachelor,1.76,43.9,Fail,F,Medium Risk
+S1437,36.3,64.7,60.0,7.4,2.4,3.56,0,Bachelor,2.24,50.1,Pass,D,Medium Risk
+S1438,6.2,90.6,97.1,7.7,10.2,2.51,1,Bachelor,2.14,59.4,Pass,D,Medium Risk
+S1439,3.0,83.7,74.8,8.6,0.2,1.44,0,Master,2.21,37.1,Fail,F,High Risk
+S1440,19.4,71.5,79.7,7.1,2.1,2.06,0,High School,2.22,56.2,Pass,D,Medium Risk
+S1441,23.8,60.8,78.3,7.5,3.8,4.0,0,Bachelor,2.4,52.2,Pass,D,Medium Risk
+S1442,19.7,93.1,88.5,6.4,6.0,2.58,0,High School,2.1,63.7,Pass,D,Low Risk
+S1443,0.0,89.8,68.6,7.4,0.6,2.61,1,High School,1.68,35.5,Fail,F,High Risk
+S1444,19.1,78.5,39.1,6.5,4.8,2.56,1,Master,2.43,33.0,Fail,F,High Risk
+S1445,7.0,100.0,73.0,7.9,2.4,4.0,1,PhD,2.13,56.1,Pass,D,Medium Risk
+S1446,26.7,63.9,52.0,6.4,1.5,4.0,0,Bachelor,2.68,49.1,Fail,F,Medium Risk
+S1447,23.7,57.1,54.4,7.6,0.4,4.0,0,Master,2.06,32.6,Fail,F,High Risk
+S1448,10.6,69.6,76.7,7.0,6.0,2.67,1,Master,1.94,36.8,Fail,F,High Risk
+S1449,14.9,79.3,89.8,8.7,0.5,3.04,1,Master,2.72,57.0,Pass,D,Medium Risk
+S1450,9.4,83.7,65.4,6.9,1.1,1.59,0,High School,2.3,50.3,Pass,D,Medium Risk
+S1451,19.4,76.4,71.2,4.3,1.0,3.98,1,PhD,2.22,41.9,Fail,F,Medium Risk
+S1452,29.6,85.3,99.0,8.9,6.2,1.87,1,Bachelor,2.52,39.0,Fail,F,High Risk
+S1453,10.1,61.2,69.8,5.6,3.4,2.97,1,Bachelor,1.79,42.2,Fail,F,Medium Risk
+S1454,25.0,100.0,100.0,6.0,4.8,1.92,1,High School,2.73,51.6,Pass,D,Medium Risk
+S1455,14.7,78.8,76.3,6.1,0.9,2.33,0,Bachelor,2.38,31.8,Fail,F,High Risk
+S1456,12.1,96.8,29.8,9.1,2.9,2.13,0,High School,1.93,16.9,Fail,F,High Risk
+S1457,18.9,85.1,80.1,3.8,2.5,2.31,1,High School,2.38,56.1,Pass,D,Medium Risk
+S1458,9.6,86.9,72.6,11.7,5.4,2.37,0,Bachelor,2.69,48.3,Fail,F,Medium Risk
+S1459,14.5,88.5,90.8,8.6,7.1,2.36,1,Master,2.44,49.5,Fail,F,Medium Risk
+S1460,8.0,86.7,78.5,7.3,0.0,3.47,1,Master,2.34,58.8,Pass,D,Medium Risk
+S1461,39.6,89.6,62.2,6.9,3.4,1.92,0,Bachelor,2.11,65.2,Pass,C,Low Risk
+S1462,20.4,99.9,40.5,7.4,0.2,2.98,1,Master,1.48,61.0,Pass,D,Low Risk
+S1463,13.0,82.9,60.8,7.8,2.4,3.77,0,Master,2.3,33.1,Fail,F,High Risk
+S1464,22.1,90.6,48.0,8.0,1.0,2.39,1,Master,2.2,48.7,Fail,F,Medium Risk
+S1465,18.9,78.7,53.4,7.8,1.1,2.23,1,High School,1.91,32.9,Fail,F,High Risk
+S1466,17.8,100.0,76.8,7.1,1.3,2.62,1,Bachelor,2.52,52.8,Pass,D,Medium Risk
+S1467,26.1,69.9,98.4,6.7,2.9,3.74,1,PhD,2.55,55.5,Pass,D,Medium Risk
+S1468,27.6,100.0,72.9,6.8,1.2,2.96,1,Bachelor,2.98,64.2,Pass,D,Low Risk
+S1469,14.7,79.4,41.1,6.7,4.0,2.38,1,Bachelor,1.85,38.0,Fail,F,High Risk
+S1470,14.2,58.5,73.9,8.7,1.6,3.19,1,Bachelor,1.82,49.6,Fail,F,Medium Risk
+S1471,17.2,81.9,88.9,7.9,0.2,1.92,0,Bachelor,2.62,60.7,Pass,D,Low Risk
+S1472,0.0,69.8,52.8,3.0,4.6,3.35,0,Bachelor,1.43,43.8,Fail,F,Medium Risk
+S1473,4.8,92.6,62.3,8.0,1.0,3.13,0,High School,2.24,40.4,Fail,F,Medium Risk
+S1474,33.7,70.2,65.3,7.3,1.7,2.55,0,Bachelor,2.23,47.4,Fail,F,Medium Risk
+S1475,36.4,73.3,49.3,7.0,3.5,2.13,1,Master,2.06,53.7,Pass,D,Medium Risk
+S1476,17.5,51.7,78.0,6.4,1.2,2.09,1,Master,1.92,38.2,Fail,F,High Risk
+S1477,25.8,73.2,62.6,8.7,0.2,3.23,1,High School,2.36,64.3,Pass,D,Low Risk
+S1478,23.1,43.6,73.4,8.4,1.4,3.78,0,PhD,2.27,44.3,Fail,F,Medium Risk
+S1479,50.8,56.2,47.3,5.8,8.7,2.29,1,Bachelor,2.18,47.2,Fail,F,Medium Risk
+S1480,31.2,91.4,56.3,7.6,3.1,3.17,0,Bachelor,1.97,51.1,Pass,D,Medium Risk
+S1481,18.7,91.8,79.4,5.5,3.3,1.13,1,Master,2.05,57.2,Pass,D,Medium Risk
+S1482,10.4,86.4,57.5,4.9,3.0,2.33,1,Master,2.13,38.5,Fail,F,High Risk
+S1483,3.9,65.5,99.5,6.1,0.7,2.78,0,PhD,1.91,39.7,Fail,F,High Risk
+S1484,22.0,79.3,57.0,8.3,1.6,2.07,0,Bachelor,2.08,62.1,Pass,D,Low Risk
+S1485,12.4,79.9,69.5,8.4,4.2,2.05,0,Master,2.33,37.9,Fail,F,High Risk
+S1486,5.8,62.6,83.7,7.8,0.3,2.27,1,High School,1.68,43.4,Fail,F,Medium Risk
+S1487,13.5,100.0,36.6,8.1,1.0,3.03,1,Master,1.66,48.3,Fail,F,Medium Risk
+S1488,9.2,93.2,29.8,7.8,1.0,2.65,1,Master,1.82,24.2,Fail,F,High Risk
+S1489,36.9,76.7,34.5,6.0,1.7,1.01,0,Bachelor,1.91,53.2,Pass,D,Medium Risk
+S1490,28.8,80.4,90.3,7.6,11.8,1.1,1,High School,2.02,45.5,Fail,F,Medium Risk
+S1491,19.9,83.1,54.0,8.2,0.2,2.31,1,Master,2.11,55.0,Pass,D,Medium Risk
+S1492,34.8,49.4,100.0,8.1,2.2,3.17,1,High School,2.7,52.8,Pass,D,Medium Risk
+S1493,20.8,76.3,53.7,8.8,0.6,0.6,0,High School,1.95,53.3,Pass,D,Medium Risk
+S1494,11.4,69.8,68.7,8.1,10.6,2.4,0,Master,1.94,46.3,Fail,F,Medium Risk
+S1495,35.2,65.0,95.8,7.5,0.4,2.38,1,Bachelor,3.15,70.4,Pass,C,Low Risk
+S1496,25.4,75.8,100.0,8.6,1.6,3.91,0,Master,2.62,63.1,Pass,D,Low Risk
+S1497,9.6,100.0,100.0,7.0,4.0,2.49,0,Bachelor,2.5,51.9,Pass,D,Medium Risk
+S1498,18.1,89.6,89.2,5.7,3.7,3.11,0,High School,2.27,48.5,Fail,F,Medium Risk
+S1499,11.2,71.4,85.5,6.8,1.6,2.91,1,Master,1.86,58.6,Pass,D,Medium Risk
+S1500,6.2,88.6,76.9,5.9,1.3,1.1,1,Bachelor,1.74,39.0,Fail,F,High Risk

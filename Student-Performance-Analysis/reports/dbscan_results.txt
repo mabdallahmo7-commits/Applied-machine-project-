@@ -1,0 +1,12 @@
+DBSCAN Clustering Results
+==================================================
+PCA components: 3 (variance ratio: 0.515)
+Best eps: 1.6000000000000005
+Best min_samples: 3
+Silhouette Score: 0.7148
+Clusters found: 2
+Noise points: 8 (1.6%)
+
+Outliers Analysis:
+  Exceptional (score>=75): 1
+  At-Risk (score<40): 4
